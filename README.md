@@ -55,6 +55,9 @@ Enter your password: "The password you entered during the set up"
 ![image](https://user-images.githubusercontent.com/94912101/160836614-22099eca-01c0-4f69-bf5e-f4a4fa36f21e.png)
 You can now use MySQL Shell to check out the tables created for the project
 
+# How to run the code
+* The first step is to open your IDE and open the 2 python files given in the repostitory which you can get on you local system by Cloning the repository
+* The first file is to create a database on which we would be working on
 
 
 
