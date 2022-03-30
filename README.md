@@ -28,5 +28,33 @@ Pymysql module<br>**
 * Go to <a href="https://dev.mysql.com/downloads/installer/">MySQL Download Website</a>
 * We would be downloading the community version
 ![image](https://user-images.githubusercontent.com/94912101/160829622-da0d1751-3ac2-4422-b8ca-405c897fe8c0.png)
+* Click on "No thanks, start my download"
 ![image](https://user-images.githubusercontent.com/94912101/160830251-dfd4a978-c898-4a24-8414-9fe2d0851a94.png)
+* After the installer opens, click on the "Developer Default Option"
+![image](https://user-images.githubusercontent.com/94912101/160832206-7578342c-30c2-4ece-93f4-ad0549333b0f.png)
+* Now specify your Install directory<br>
+![image](https://user-images.githubusercontent.com/94912101/160832796-710943f7-3f36-4f03-9ef7-052d04c61626.png)
+* Now a button will come up as "Execute", click it! Installation of the required packages will start!
+![image](https://user-images.githubusercontent.com/94912101/160833458-96d38ccd-59c9-43e8-9877-810e717e01b6.png)
+* After the installation is complete, click next until you get to the page below
+* <b>This is a very important step. By default your username is kept as "root". You would also have to provide a password at this step for the set up. Please remember the Username and Password you are entering as it would be asked while running the program</b>
+![image](https://user-images.githubusercontent.com/94912101/160834134-01dcbf0e-bb14-4491-ae04-68843b61d6f4.png)
+* Now keep clicking "Next" and "Execute" and the installation would be done!
+
+### Using MySQL shell to look at the database created at the backend(This is optional/Not needed) 
+* Go to start and search MySQL shell<br>
+ ![image](https://user-images.githubusercontent.com/94912101/160835376-4fb52293-6b73-4f03-8928-c968554b30fd.png)
+
+* After opening it , it would be displayed as given below<br>
+![image](https://user-images.githubusercontent.com/94912101/160835699-0bb7ecf0-f72e-4e61-9afc-6c74b6801949.png)
+
+Type the following in the Shell:
+\sql
+\connect root@localhost
+Enter your password: "The password you entered during the set up"
+![image](https://user-images.githubusercontent.com/94912101/160836614-22099eca-01c0-4f69-bf5e-f4a4fa36f21e.png)
+You can now use MySQL Shell to check out the tables created for the project
+
+
+
 
