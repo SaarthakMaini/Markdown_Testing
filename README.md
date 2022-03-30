@@ -58,6 +58,19 @@ You can now use MySQL Shell to check out the tables created for the project
 # How to run the code
 * The first step is to open your IDE and open the 2 python files given in the repostitory which you can get on you local system by Cloning the repository
 * The first file is to create a database on which we would be working on
+* Just run the "Project Database" python file and a database would be created with sample data for the hotel management system
+![image](https://user-images.githubusercontent.com/94912101/160847883-443716ae-cfd4-4a9c-b062-f7a7e91a5af2.png)
+
+* When you run the program , you would have to provide your SQL username and password(Note: If you didn't specify a user name then it is "root" by default), please do so!<br>
+![image](https://user-images.githubusercontent.com/94912101/160848762-18e2de96-46fb-4ea2-9dc1-163a1ca06c79.png)
+* Now that our database is created, we can use the other python file for managing the hotel management system database
+* Run the other file and you would get a screen asking for your SQL Username and Password. After you fill it you would get the following screen!
+![image](https://user-images.githubusercontent.com/94912101/160849780-ecf25299-ddb3-4852-ac09-6249f953d4b4.png)
+### The following are the usernames and passwords which you could use to login as an administrator or an employee:
+1. Username: Saarthak Maini  Password:Saarthak@123 Role: ADMIN/OWNER
+2. Username: Devansh Bhanga Password:Devansh@123 Role:EMPLOYEE
+
+After that you can perform the desired operations as given in the menu
 
 
 
