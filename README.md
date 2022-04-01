@@ -14,15 +14,14 @@ Pymysql module<br>**
  ![image](https://user-images.githubusercontent.com/94912101/160825747-f526104d-e8d5-4546-9884-1f2f9ec8470c.png)
 
 * Once you click on the Save As.. Option , file explorer will open! Select the path at the top of the file explorer
-* Copy the path(Ctrl + c)
- ![image](https://user-images.githubusercontent.com/94912101/160826224-a2d9ff8b-f58a-45cc-8ce1-a6f8b28c34f1.png)
+* Copy the path(Ctrl + c) ![image](https://user-images.githubusercontent.com/94912101/161272856-0315ce65-419f-4128-a94c-31a6a25d84b8.png)
 * Open Command prompt! 
 * Enter cd + copied path(ctrl + v) in the terminal
 * After that enter cd Scripts
-![image](https://user-images.githubusercontent.com/94912101/160826916-8a1feea2-7bc7-4063-9a22-d56dc0dc6f55.png)
+![image](https://user-images.githubusercontent.com/94912101/161273293-4ca94b7b-4036-496c-98fa-a379de593013.png)
 * Now type "pip install pymysql" in the command line( We are using the pip package manager to download pymysql from the internet)
 * After that press Enter and pymysql package would be downloaded!
-![image](https://user-images.githubusercontent.com/94912101/160828231-2d5ba3c8-dcbe-44e1-9961-42c05f46ea2c.png)
+![image](https://user-images.githubusercontent.com/94912101/161273718-c2929e0c-d09f-4c99-8dc5-afdf6d5b03e4.png)
 
 ### Downloading and Installing `MySQL`
 * Go to <a href="https://dev.mysql.com/downloads/installer/">MySQL Download Website</a>
